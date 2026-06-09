@@ -28,5 +28,5 @@ pip install pypdf
 
 python pdf_merger.py
 
-mkdir screenshots
+##Screenshot
 
