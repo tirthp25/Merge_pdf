@@ -29,4 +29,8 @@ pip install pypdf
 python pdf_merger.py
 
 ##Screenshot
+## Screenshot
 
+![Main Window](screenshots/run_merged_pdf.png)
+
+![Successful Merge](screenshots/successful_merged_pdf.png)
