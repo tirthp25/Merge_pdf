@@ -110,7 +110,7 @@ def merge_pdfs():
         messagebox.showerror("Merge Failed", f"Unable to merge PDFs:\n{exc}")
 
 root = tk.Tk()
-root.title("Colorful PDF Merger")
+root.title("PDF Merger")
 root.configure(bg=BACKGROUND)
 root.geometry("740x560")
 root.minsize(700, 520)
