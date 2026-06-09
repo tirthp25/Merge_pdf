@@ -27,3 +27,6 @@ pip install pypdf
 ## Run
 
 python pdf_merger.py
+
+mkdir screenshots
+
