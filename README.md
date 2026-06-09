@@ -33,4 +33,4 @@ python pdf_merger.py
 
 ![Main Window](screenshots/run_merged_pdf.png)
 
-![Successful Merge](screenshots/successful_merged_pdf.png)
+![Successful Merge](screenshots/successful_merged_pdf_.png)
